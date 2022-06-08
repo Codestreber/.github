@@ -1,4 +1,4 @@
-# Codestrener
+# Codestreber
 
 ## What it's all about?
 
